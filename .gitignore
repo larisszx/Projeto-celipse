@@ -1,0 +1,29 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Next.js build
+web/.next/
+web/out/
+
+# NestJS build
+api/dist/
+
+# Expo / React Native
+mobile/.expo/
+mobile/web-build/
+mobile/.expo-shared/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS files
+.DS_Store
+Thumbs.db
